@@ -185,5 +185,6 @@ https://github.com/user-attachments/assets/59aaf638-c822-492c-a9b3-a444eda3823e
 
 
 Video : 
-
+Technical document: 
+[Technical Documentation_ Top-Down Perspective Game (_Legend Of Zelda_ Style).pdf](https://github.com/user-attachments/files/17610148/Technical.Documentation_.Top-Down.Perspective.Game._Legend.Of.Zelda_.Style.pdf)
 
